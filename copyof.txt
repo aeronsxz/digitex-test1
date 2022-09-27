@@ -1,0 +1,276 @@
+<section id="team">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 offset-lg-2 col-md-10 offset-md-1">
+        <div class="sec-heading text-center">
+          <h1>Meet Our Team</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="testimonial-box">
+    <div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <div class="team-slider owl-carousel">
+        <div class="column">
+          <div class="team-5">
+            <div class="team-img">
+              <img src="images/user.jpg" alt="Team Image">
+            </div>
+          <div class="team-content">
+              <h2>Team Name</h2>
+              <h3>Team Position</h3>
+              <p>Description</p>
+          </div>
+          <div class="team-social">
+            <a class="social-fb" href=""><i class="fa fa-facebook-f"></i></a>
+          </div>
+      </div>
+  </div>
+  <div class="column">
+    <div class="team-5">
+        <div class="team-img">
+            <img src="images/teams/teamleader.jpg" alt="Team Image">
+        </div>
+        <div class="team-content">
+            <h2>Lemuel Gabriel C. Licup</h2>
+            <h3>Team Leader</h3>
+            <p>Description</p>
+        </div>
+        <div class="team-social">
+            <a class="social-fb" href="https://www.facebook.com/LemOnDues"><i class="fa fa-facebook-f"></i></a>
+        </div>
+    </div>
+</div>
+<div class="column">
+  <div class="team-5">
+      <div class="team-img">
+          <img src="images/teams/coleader.jpg" alt="Team Image">
+      </div>
+      <div class="team-content">
+          <h2>Neal Ed Anthony C. Cañeta</h2>
+          <h3>Co-Leader</h3>
+          <p>Description</p>
+      </div>
+      <div class="team-social">
+        <a class="social-fb" href="https://www.facebook.com/profile.php?id=100078408794266"><i class="fa fa-facebook-f"></i></a>
+      </div>
+  </div>
+</div>
+<div class="column">
+  <div class="team-5">
+      <div class="team-img">
+          <img src="images/teams/Magno.jpg" alt="Team Image">
+      </div>
+      <div class="team-content">
+          <h2>Gerald G. Magno</h2>
+          <h3>Front End Programmer</h3>
+          <p>Description</p>
+      </div>
+      <div class="team-social">
+        <a class="social-fb" href="https://www.facebook.com/geraldmagno07"><i class="fa fa-facebook-f"></i></a>
+      </div>
+  </div>
+</div>
+<div class="column">
+  <div class="team-5">
+      <div class="team-img">
+          <img src="images/teams/Malicsi.jpg" alt="Team Image">
+      </div>
+      <div class="team-content">
+          <h2>Aeron Christian E. Malicsi</h2>
+          <h3>Front End Programmer</h3>
+          <p>Description</p>
+      </div>
+      <div class="team-social">
+        <a class="social-fb" href="https://www.facebook.com/iAeronsxz"><i class="fa fa-facebook-f"></i></a>
+      </div>
+  </div>
+</div>
+<div class="column">
+  <div class="team-5">
+      <div class="team-img">
+          <img src="images/teams/Romo.png" alt="Team Image">
+      </div>
+      <div class="team-content">
+          <h2>Nathaniel Romo</h2>
+          <h3>Front End Programmer</h3>
+          <p>Description</p>
+      </div>
+      <div class="team-social">
+        <a class="social-fb" href="https://www.facebook.com/NathanielRoms"><i class="fa fa-facebook-f"></i></a>
+      </div>
+  </div>
+</div>
+<div class="column">
+<div class="team-5">
+    <div class="team-img">
+        <img src="images/teams/Sanchez.png" alt="Team Image">
+    </div>
+    <div class="team-content">
+        <h2>John Carlo Sanchez</h2>
+        <h3>Front End Programmer</h3>
+        <p>Description</p>
+    </div>
+    <div class="team-social">
+      <a class="social-fb" href="https://www.facebook.com/carlo2304"><i class="fa fa-facebook-f"></i></a>
+    </div>
+</div>
+</div>
+<div class="column">
+<div class="team-5">
+  <div class="team-img">
+      <img src="images/teams/Nolasco.png" alt="Team Image">
+  </div>
+  <div class="team-content">
+      <h2>Jethro Glenn G. Nolasco</h2>
+      <h3>Back End Programmer</h3>
+      <p>Description</p>
+  </div>
+  <div class="team-social">
+    <a class="social-fb" href="https://www.facebook.com/jethroglenn.nolasco"><i class="fa fa-facebook-f"></i></a>
+  </div>
+</div>
+</div>
+<div class="column">
+  <div class="team-5">
+      <div class="team-img">
+          <img src="images/teams/Canites.jpg" alt="Team Image">
+      </div>
+      <div class="team-content">
+          <h2>Gelmar Canites</h2>
+          <h3>Documentation</h3>
+          <p>Description</p>
+      </div>
+      <div class="team-social">
+        <a class="social-fb" href="https://www.facebook.com/GelmarPogi"><i class="fa fa-facebook-f"></i></a>
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="team-5">
+        <div class="team-img">
+            <img src="images/teams/Delacruz.jpg" alt="Team Image">
+        </div>
+        <div class="team-content">
+            <h2>John P. Dela Cruz</h2>
+            <h3>Back End Programmer</h3>
+            <p>Description</p>
+        </div>
+        <div class="team-social">
+          <a class="social-fb" href="https://www.facebook.com/johnjr.delacruz"><i class="fa fa-facebook-f"></i></a>
+        </div>
+      </div>
+    </div>
+    <div class="column">
+      <div class="team-5">
+          <div class="team-img">
+              <img src="images/teams/Mechure.jpg" alt="Team Image">
+          </div>
+          <div class="team-content">
+              <h2>Wesley Mechure</h2>
+              <h3>Back End Programmer</h3>
+              <p>Description</p>
+          </div>
+          <div class="team-social">
+            <a class="social-fb" href="https://www.facebook.com/wesley.mechure"><i class="fa fa-facebook-f"></i></a>
+          </div>
+        </div>
+      </div>
+      <div class="column">
+        <div class="team-5">
+            <div class="team-img">
+                <img src="images/teams/Chen.jpg" alt="Team Image">
+            </div>
+            <div class="team-content">
+                <h2>Mary Joyce A. Chen</h2>
+                <h3>Documentation</h3>
+                <p>Description</p>
+            </div>
+            <div class="team-social">
+              <a class="social-fb" href="https://www.facebook.com/MaryJoyceChen"><i class="fa fa-facebook-f"></i></a>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="team-5">
+              <div class="team-img">
+                  <img src="images/teams/Refuerzo.jpg" alt="Team Image">
+              </div>
+              <div class="team-content">
+                  <h2>Lloyd Christian M. Refuerzo</h2>
+                  <h3>Back End Programmer</h3>
+                  <p>Description</p>
+              </div>
+              <div class="team-social">
+                <a class="social-fb" href="https://www.facebook.com/lloydchristian.refuerzo"><i class="fa fa-facebook-f"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="column">
+            <div class="team-5">
+                <div class="team-img">
+                    <img src="images/teams/Cayabyab.png" alt="Team Image">
+                </div>
+                <div class="team-content">
+                    <h2>Miguel C. Cayabyab</h2>
+                    <h3>Team Position</h3>
+                    <p>Description</p>
+                </div>
+                <div class="team-social">
+                  <a class="social-fb" href="https://www.facebook.com/MiguelCayabyab21"><i class="fa fa-facebook-f"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="column">
+              <div class="team-5">
+                  <div class="team-img">
+                      <img src="images/teams/Grecia.jpg" alt="Team Image">
+                  </div>
+                  <div class="team-content">
+                      <h2>Rigel Kenth D. Grecia</h2>
+                      <h3>Team Position</h3>
+                      <p>Description</p>
+                  </div>
+                  <div class="team-social">
+                    <a class="social-fb" href="https://www.facebook.com/JAPROPERTYS"><i class="fa fa-facebook-f"></i></a>
+                  </div>
+                </div>
+              </div>
+              <div class="column">
+                <div class="team-5">
+                    <div class="team-img">
+                        <img src="images/teams/Navarro.png" alt="Team Image">
+                    </div>
+                    <div class="team-content">
+                        <h2>Christian Brix G. Navarro</h2>
+                        <h3>Documentation</h3>
+                        <p>Description</p>
+                    </div>
+                    <div class="team-social">
+                      <a class="social-fb" href="https://www.facebook.com/damn.brix"><i class="fa fa-facebook-f"></i></a>
+                    </div>
+                  </div>
+                </div>
+                <div class="column">
+                  <div class="team-5">
+                      <div class="team-img">
+                          <img src="images/user.jpg" alt="Team Image">
+                      </div>
+                      <div class="team-content">
+                          <h2>Vick lee bie</h2>
+                          <h3>Documentation</h3>
+                          <p>Description</p>
+                      </div>
+                      <div class="team-social">
+                        <a class="social-fb" href="https://www.facebook.com/vicklee.bie.7"><i class="fa fa-facebook-f"></i></a>
+                      </div>
+                    </div>
+                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+</section>
